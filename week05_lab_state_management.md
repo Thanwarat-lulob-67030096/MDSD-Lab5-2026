@@ -501,7 +501,9 @@ class HomePage extends StatelessWidget {
 > ✅ **Checkpoint 2.1** รันแอปใหม่ ทดสอบกดบันทึกสินค้าจากหลายจุด แล้วตรวจว่าตัวเลขที่ AppBar อัปเดตถูกต้องทุกครั้ง โดยที่ไฟล์ `item_list_section.dart` และ `item_card.dart` **ไม่มีพารามิเตอร์ savedItems หรือ onSave หลงเหลือใน constructor แล้ว**
 
 > ✅ **Checkpoint 2.2** ทดสอบว่าเมื่อบันทึกสินค้าจากหน้า Home แล้วกดไปหน้า Favorites ตัวเลขและรายการสินค้าตรงกันทันที ลองกดปุ่มถังขยะลบสินค้าออกจากหน้า Favorites แล้วย้อนกลับไปหน้า Home ดูว่าปุ่มของสินค้านั้นกลับมากดซ้ำได้อีกครั้ง ถ่ายภาพหน้าจอทั้งสองหน้าเทียบกันแนบส่ง
+<img width="647" height="839" alt="image" src="https://github.com/user-attachments/assets/69bf9c4e-603b-4229-bf83-136216ee9f68" />
 
+<img width="654" height="899" alt="image" src="https://github.com/user-attachments/assets/fa454bba-6d19-474d-9e3b-3a5d150c49f3" />
 ```image
 <img width="647" height="839" alt="image" src="https://github.com/user-attachments/assets/69bf9c4e-603b-4229-bf83-136216ee9f68" />
 
@@ -754,7 +756,4 @@ class HomePage extends ConsumerWidget {
 ฟีเจอร์ล้างรายการโปรดทั้งหมด (Clear All): เลือกใช้ App State ผ่าน Provider ร่วมกับ context.watch สำหรับเงื่อนไขการแสดงปุ่ม และ context.read สำหรับสั่งล้างข้อมูลผ่าน FavoritesModel เนื่องจากข้อมูลรายการโปรดเป็นสถานะส่วนกลางที่ต้องซิงค์ร่วมกันทั้งแอปพลิเคชัน
 
 ```
-```image
 <img width="645" height="849" alt="image" src="https://github.com/user-attachments/assets/81d17342-ba38-45e3-90d2-3a078db093e3" />
-
-```
