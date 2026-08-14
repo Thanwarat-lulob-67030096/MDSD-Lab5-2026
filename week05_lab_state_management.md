@@ -504,11 +504,7 @@ class HomePage extends StatelessWidget {
 <img width="647" height="839" alt="image" src="https://github.com/user-attachments/assets/69bf9c4e-603b-4229-bf83-136216ee9f68" />
 
 <img width="654" height="899" alt="image" src="https://github.com/user-attachments/assets/fa454bba-6d19-474d-9e3b-3a5d150c49f3" />
-```image
-<img width="647" height="839" alt="image" src="https://github.com/user-attachments/assets/69bf9c4e-603b-4229-bf83-136216ee9f68" />
 
-<img width="654" height="899" alt="image" src="https://github.com/user-attachments/assets/fa454bba-6d19-474d-9e3b-3a5d150c49f3" />
-```
 
 
 ---
